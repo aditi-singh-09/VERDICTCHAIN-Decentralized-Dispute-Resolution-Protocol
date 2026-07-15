@@ -25,8 +25,6 @@
 | **DisputeCourt** | `CDSJ2G3EYVB76KG5332VRYC3KW2DKN6TSV5G56G2E6VN6THNN432PJUM` |
 | **JurorRegistry** | `CBX7A3ZWUM62XQZU5TP5CJGAZWUIX64Y4SNUFJGO5PJO7564DSEINNAR` |
 
-→ [View on Stellar Expert Explorer](https://stellar.expert/explorer/testnet)
-
 ---
 
 ## 📸 Screenshots
