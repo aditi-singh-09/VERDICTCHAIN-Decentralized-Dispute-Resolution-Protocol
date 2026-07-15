@@ -18,6 +18,16 @@
 | 🔍 **On-chain Tx** | [View on Stellar Expert](https://stellar.expert/explorer/testnet/tx/5f5af0a3c2799b6b3e589ee9f9b59f68084bc0cbc50f7454ed02e6336710e97f) |
 
 ---
+## 🔗 Deployed Contracts (Testnet)
+
+| Contract | Address |
+|---|---|
+| **DisputeCourt** | `CDSJ2G3EYVB76KG5332VRYC3KW2DKN6TSV5G56G2E6VN6THNN432PJUM` |
+| **JurorRegistry** | `CBX7A3ZWUM62XQZU5TP5CJGAZWUIX64Y4SNUFJGO5PJO7564DSEINNAR` |
+
+→ [View on Stellar Expert Explorer](https://stellar.expert/explorer/testnet)
+
+---
 
 ## 📸 Screenshots
 
@@ -164,22 +174,6 @@ Every push to `main` automatically:
 3. 🚀 Deploys both Soroban contracts to Stellar Testnet
 4. 🔗 Initializes contracts with cross-references and native XLM token
 
----
-
-## 🔗 Deployed Contracts (Testnet)
-
-| Contract | Address |
-|---|---|
-| **DisputeCourt** | `CDSJ2G3EYVB76KG5332VRYC3KW2DKN6TSV5G56G2E6VN6THNN432PJUM` |
-| **JurorRegistry** | `CBX7A3ZWUM62XQZU5TP5CJGAZWUIX64Y4SNUFJGO5PJO7564DSEINNAR` |
-
-→ [View on Stellar Expert Explorer](https://stellar.expert/explorer/testnet)
-
----
-
-## 📄 License
-
-MIT © 2024 VerdictChain
 
 ---
 
