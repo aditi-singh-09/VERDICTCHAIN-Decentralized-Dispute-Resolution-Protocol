@@ -36,6 +36,21 @@
 ![VerdictChain Mobile UI](images/mobile%20ui.png)
 
 ---
+## 🧪 Tests
+
+![CI/CD Pipeline](images/cic%20cd.png)
+
+![Test Output](images/test%20output.png)
+
+**Smart Contracts (Rust)** — 21 total
+- `dispute-court`: 12 tests (file dispute, cast vote, stake locking, finalize verdict, edge cases)
+- `juror-registry`: 9 tests (reputation scoring, tier progression, accuracy bonuses, penalties)
+
+**Frontend (Vitest)** — 63 tests
+- Utility functions, mock data integrity, component rendering, reputation algorithm, stake distribution logic
+
+---
+
 
 ## ⚖️ What is VerdictChain?
 
@@ -151,20 +166,6 @@ verdictchain/
 
 ---
 
-## 🧪 Tests
-
-![CI/CD Pipeline](images/cic%20cd.png)
-
-![Test Output](images/test%20output.png)
-
-**Smart Contracts (Rust)** — 21 total
-- `dispute-court`: 12 tests (file dispute, cast vote, stake locking, finalize verdict, edge cases)
-- `juror-registry`: 9 tests (reputation scoring, tier progression, accuracy bonuses, penalties)
-
-**Frontend (Vitest)** — 63 tests
-- Utility functions, mock data integrity, component rendering, reputation algorithm, stake distribution logic
-
----
 
 ## 🔄 CI/CD Pipeline
 
